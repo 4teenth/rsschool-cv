@@ -1,7 +1,5 @@
 # Andrii Ovsiannikov
 
-===
-
 ### Contact:
 
 **Location:** Dnipro, Ukraine<br>
@@ -12,8 +10,6 @@
 [Github](https://bit.ly/3rfkO7s)<br>
 [LinkedIn](https://bit.ly/4021MTF)
 
-===
-
 ### Summary:
 
 During the last year, I've learned technologies in Front-End Web Development and gathered new
@@ -21,16 +17,12 @@ experience.<br>
 Took part in some training programs and courses. I am open for getting new experience and knowledge,<br>
 I always try to understand the essence of the issue and never give up.
 
-===
-
 ### Technical skills:
 
 - **Technologies:** HTML5, CSS3, JavaScript;
 - **Related technologies\notions:** Responsive web design, Pixel Perfect, Flexbox/Grid, CSS pre-\postprocessors Sass/Less\Autoprefixer, lazysizes/lodash libs, Bootstrap;
 - **Methodologies:** Agile, Scrum, BEM(web dev);
 - **Development tools:** VSC, Github/Gitlab, Gulp Kit, Webpack, Bourbon;
-
-===
 
 ### Code example:
 
@@ -53,8 +45,6 @@ function perimetr(matrix) {
 }
 ```
 
-===
-
 ### Education:
 
 - **University:** Dnipro University of Technology, _Electromechanical automation systems and electrical
@@ -62,8 +52,6 @@ function perimetr(matrix) {
 - **Courses:**
   - [GoIT](https://goit.global/ua/)
   - Epam University program
-
-===
 
 ### Languages:
 
