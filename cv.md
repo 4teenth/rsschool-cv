@@ -1,30 +1,38 @@
 # Andrii Ovsiannikov
 
-### Contact
+===
 
-**Location:** Dnipro, Ukraine
-**Phone:** +380660422440
-**Email:** aio.ao91@gmail.com
-**Telegram:** @andplusrew
-**Skype:** live:aio.ao91
-[Github](https://bit.ly/3rfkO7s)
+### Contact:
+
+**Location:** Dnipro, Ukraine<br>
+**Phone:** +380660422440<br>
+**Email:** aio.ao91@gmail.com<br>
+**Telegram:** @andplusrew<br>
+**Skype:** live:aio.ao91<br>
+[Github](https://bit.ly/3rfkO7s)<br>
 [LinkedIn](https://bit.ly/4021MTF)
 
-### Summary
+===
+
+### Summary:
 
 During the last year, I've learned technologies in Front-End Web Development and gathered new
-experience. Took part in some training programs and courses.
-I am open for getting new experience and knowledge, I always try to understand the essence of the
-issue and never give up.
+experience.<br>
+Took part in some training programs and courses. I am open for getting new experience and knowledge,<br>
+I always try to understand the essence of the issue and never give up.
 
-### Technical skills
+===
+
+### Technical skills:
 
 - **Technologies:** HTML5, CSS3, JavaScript;
 - **Related technologies\notions:** Responsive web design, Pixel Perfect, Flexbox/Grid, CSS pre-\postprocessors Sass/Less\Autoprefixer, lazysizes/lodash libs, Bootstrap;
 - **Methodologies:** Agile, Scrum, BEM(web dev);
 - **Development tools:** VSC, Github/Gitlab, Gulp Kit, Webpack, Bourbon;
 
-### Code example
+===
+
+### Code example:
 
 **Find the perimeter of the square:**
 
@@ -45,13 +53,17 @@ function perimetr(matrix) {
 }
 ```
 
-### Education
+===
+
+### Education:
 
 - **University:** Dnipro University of Technology, _Electromechanical automation systems and electrical
   drive_
 - **Courses:**
   - [GoIT](https://goit.global/ua/)
   - Epam University program
+
+===
 
 ### Languages:
 
