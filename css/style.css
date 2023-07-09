@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #434750;
+    font-size: 20px;
+}
+
+.header {
+    background: #505050;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav-link {
+    position: relative;
+    transition: color 0.2s linear;
+    text-decoration: none;
+    /* padding: 0 20px; */
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #0095ff;
+    text-shadow: 0 0 0.65px #0095ff, 0 0 0.65px #0095ff;
+}
+
+.nav-link::before {
+    content: "";
+    position: absolute;
+    border-radius: 2px;
+    border-bottom: 3px solid #0095ff;
+    bottom: -5px;
+    width: 50%;
+    transform: translateX(100%);
+    visibility: hidden;
+    transition: 0.2s linear;
+}
+
+.nav-link:hover::before {
+    visibility: visible;
+    transform: translateX(50%);
+    border-radius: 2px;
+    border-bottom: 3px solid #fff700;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.section {
+    width: calc(50% - 25px);
+    border-bottom: 5px dotted #0095ff;
+}
+
+.section-author {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0 30px 0;
+    border-bottom: 5px solid #0095ff;
+}
+
+.section-author-photo {
+    border-radius: 50%;
+}
+
+.section-author-info {
+    text-align: center;
+    /* color: #fff; */
+    text-transform: uppercase;
+}
+
+.section-author-name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.section-author-job {
+    font-weight: 300;
+    font-size: 28px;
+    color: #0095ff;
+    border-left: 3px solid;
+    border-right: 3px solid;
+    border-color: #0095ff;
+    border-width: 8px;
+}
+
+.section-title {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 28px;
+    /* line-height: 5px; */
+    letter-spacing: 2px;
+    color: #0095ff;
+}
+
+.section-list {
+    list-style: none;
+    padding: 0;
+}
+
+.accent {
+    font-weight: bold;
+    color: #fff700;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.contact-link:hover {
+    color: #0095ff;
+}
+
+.inverted-color-link:hover {
+    color: #fff700;
+}
+
+.pre {
+    padding: 0;
+    margin: 0;
+}
+
+.code {
+    width: 500px;
+}
+
+.footer {
+    background: #505050;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-rights {
+    color: #fff700;
+}
+
+.rsschool-link-logo {
+    text-decoration: none;
+    color: #0095ff;
+}
